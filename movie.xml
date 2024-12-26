@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="stylexml.css"?>
+<detail>
+    <heading> BigCinemas </heading>
+    <head2> Movie Details </head2>
+    <mov>
+        <screen> Screen:A2  </screen>
+        <movie> Movie:Thuppaki </movie>
+        <actor> Actor:Vijay</actor>
+        <actress> Actress:KajalAgarwal </actress>
+    </mov>
+     <mov>
+        <screen> Screen:A3  </screen>
+        <movie> Movie:Ghilli </movie>
+        <actor> Actor:Vijay</actor>
+        <actress> Actress:Trisha </actress>
+    </mov>
+    <mov>
+        <screen> Screen:B1  </screen>
+        <movie> Movie:VinnaithaandiVaruvaaya </movie>
+        <actor> Actor:Simbhu</actor>
+        <actress> Actress:Trisha </actress>
+    </mov>
+    <mov>
+        <screen> Screen:B2  </screen>
+        <movie> Movie:Baahubali </movie>
+        <actor> Actor:Prabhas</actor>
+        <actress> Actress:Anushka </actress>
+    </mov>
+    <mov>
+        <screen> Screen:B3  </screen>
+        <movie> Movie:KGF2</movie>
+        <actor> Actor:Yash</actor>
+        <actress> Actress:SrinithyShetty </actress>
+    </mov>
+</detail>
